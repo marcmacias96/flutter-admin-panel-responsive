@@ -1,7 +1,7 @@
 ## Flutter Responsive Dashboard Admin panel
 
 
-## [Live Preview](http://marcmacias96.github.io/flutter-admin-panel-responsive/#/)
+
 
 **Packages we are using:**
 
