@@ -1,16 +1,24 @@
-# flutter_admin_panel
+## Flutter Responsive Dashboard Admin panel
 
-A new Flutter project.
 
-## Getting Started
+## [Live Preview](http://marcmacias96.github.io/flutter-admin-panel-responsive/#/)
 
-This project is a starting point for a Flutter application.
+**Packages we are using:**
 
-A few resources to get you started if this is your first Flutter project:
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+- goole_fonts: [link](https://pub.dev/packages/google_fonts)
+- provider: [link](https://pub.dev/packages/provider)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Fonts**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Poppins [link](https://fonts.google.com/specimen/Poppins)
+
+## Features
+
+- Flutter 2.2 Null-Safety
+- Responsive Design
+- Web Version
+- Mobile Version
+- Tablet Version
+
+![Preview](/gif.gif)
