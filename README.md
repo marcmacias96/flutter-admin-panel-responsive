@@ -1,6 +1,5 @@
 ## Flutter Responsive Dashboard Admin panel
 
-## Live version => [Preview](http://arbat-moodle.me/flutter-admin-panel-responsive/#/)
 
 
 **Packages we are using:**
